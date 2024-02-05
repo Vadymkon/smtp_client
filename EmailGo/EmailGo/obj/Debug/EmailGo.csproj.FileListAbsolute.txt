@@ -1,0 +1,7 @@
+C:\knu\spz\1\4\EmailGo\EmailGo\bin\Debug\EmailGo.exe.config
+C:\knu\spz\1\4\EmailGo\EmailGo\bin\Debug\EmailGo.exe
+C:\knu\spz\1\4\EmailGo\EmailGo\bin\Debug\EmailGo.pdb
+C:\knu\spz\1\4\EmailGo\EmailGo\obj\Debug\EmailGo.csproj.CoreCompileInputs.cache
+C:\knu\spz\1\4\EmailGo\EmailGo\obj\Debug\EmailGo.exe
+C:\knu\spz\1\4\EmailGo\EmailGo\obj\Debug\EmailGo.pdb
+C:\knu\spz\1\4\EmailGo\EmailGo\obj\Debug\EmailGo.csproj.AssemblyReference.cache
